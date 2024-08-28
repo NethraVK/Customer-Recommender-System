@@ -3,7 +3,7 @@
 **DATA OVERVIEW**
 For this project I worked with a transactional dataset which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered e-commerce store. 
 The dataset includes transaction details with unique invoice and product IDs, product descriptions, quantities, prices, transaction dates, customer IDs, and customer locations, where each transaction and product are uniquely identified, and cancellations are flagged by a specific code in the InvoiceNo (If the Invoice No. starts with a ‘C’ it indicates a cancellation).
-This dataset consists of over 3823 customers from 38 different countries, and deals with 4070 products.
+This dataset consists of over 4372 customers from 38 different countries, and deals with 4070 products.
 
 **OBJECTIVE:** 
 The goal of segmenting customers is to identify distinct groups within a larger customer base. Each group, or cluster, is composed of customers who share similar purchasing behaviors. By understanding these patterns, businesses can tailor their marketing efforts more effectively.
